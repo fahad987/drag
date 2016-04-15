@@ -33,9 +33,9 @@ angular.module('aa' ,['ngMaterial','angular-sortable-view'])
     {
 
      $scope.arr = ["dsfsdfdsf","dfrdsfdsaf","adsfdsfs"];
-     $scope.arr1 = ["dsfsdfdsf","dfrdsfdsaf","adsfdsfs"];
-    $scope.arr2 =["bsmndbm","msdn,ms","msndm"];
-     $scope.arr3 = ["jsbdjb","nsbsnm","bsdbn"];
+     $scope.arr1 = ["asdf","as","asd"];
+    $scope.arr2 =["erg","jg,ms","wqet"];
+     $scope.arr3 = ["cxbvm",";,kijm","jktyx"];
 
      /*$scope.modelArray=[  ];
      $scope.modelArray1=[  ];
